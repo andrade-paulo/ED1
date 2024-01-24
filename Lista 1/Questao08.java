@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.lang.Math;
 
-class Questao07 {
+class Questao08 {
 	public static void main(String[] args){
 		Scanner sc = new Scanner(System.in);
 
